@@ -1,3 +1,5 @@
 {
-    "cat": "meow"
+    "cat": "meow",
+    "dog": "bark",
+    "sheep": "baa"
 }
